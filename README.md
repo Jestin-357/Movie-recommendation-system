@@ -15,3 +15,9 @@ Python
 Pandas & NumPy (Data Handling)
 Scikit-Learn (Vectorization & Similarity Calculation)
 NLTK (Text Processing)
+
+## How to Use:
+Load the dataset (movies.csv and credits.csv).
+Run the notebook cells to process data and build the model.
+Call the recommendation function with a movie title to get suggestions.
+
